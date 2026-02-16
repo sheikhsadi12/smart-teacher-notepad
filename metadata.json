@@ -1,0 +1,7 @@
+{
+  "name": "Smart Teacher Notepad",
+  "description": "A bilingual (English-Bangla) AI-powered educational notepad with advanced TTS and chat capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
